@@ -1,5 +1,5 @@
 import React from "react";
-import Navbar from "/plugins/Navbar";
+import Navbar from "/plugins/Navbar.js";
 
 export default function IndexPage() {
   const video01 = "test";
